@@ -13,6 +13,12 @@ Built using Python's tkinter library, the program ensures cross-platform compati
 [Python](https://github.com/sourceduty/Python)
 <br>
 [Python Simulator](https://github.com/sourceduty/Python_Simulator)
+<br>
+[Sourceduty Notepad](https://github.com/sourceduty/Sourceduty_Notepad)
+<br>
+[Travel Notepad](https://github.com/sourceduty/Travel_Notepad)
+<br>
+[Industry Notepad](https://github.com/sourceduty/Industry_Notepad)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
