@@ -1,6 +1,6 @@
 ![Image_Example](https://github.com/user-attachments/assets/fa86087d-f230-484c-ae56-8c761cc16e97)
 
-> Notepad with advanced functionality for exporting notes as images.
+> Notepad with notes exported as images.
 #
 
 Notepad Image V1.0 program is a lightweight text editor with advanced functionality for exporting notes as images. Designed with simplicity and usability in mind, it provides essential features such as creating, opening, saving, and editing text files, as well as undo and redo capabilities for efficient text management. The program offers both light and dark modes, allowing users to customize the editor's appearance for comfort. One of its standout features is the ability to export the entire editor window, including its contents, as a high-quality PNG image using the pyautogui library. This makes it particularly useful for users who need to share formatted notes or preserve them visually for documentation purposes.
