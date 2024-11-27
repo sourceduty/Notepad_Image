@@ -19,6 +19,8 @@ Built using Python's tkinter library, the program ensures cross-platform compati
 [Travel Notepad](https://github.com/sourceduty/Travel_Notepad)
 <br>
 [Industry Notepad](https://github.com/sourceduty/Industry_Notepad)
+<br>
+[Autoformat Notepad](https://github.com/sourceduty/Autoformat_Notepad)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
